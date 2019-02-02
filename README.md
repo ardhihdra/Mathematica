@@ -1,5 +1,7 @@
 # Tutorial Mathematica
 
+File .nb hanya bisa dijalankan/dibuka di Wolfram Mathematica :(
+
 
 Install Mathematica disini 
 https://www.wolfram.com/mathematica/trial/
